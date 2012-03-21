@@ -3,8 +3,10 @@
  * Author: Marc Loehe (http://marcloehe.de)
  *
  * Usage:
- *
  * $('#container-with-columns').eqHeights();
+ *
+ * Demo:
+ * http://jsfiddle.net/boundaryfunctions/s22dC/embedded/result/
  *
  */
 
