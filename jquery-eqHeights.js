@@ -1,6 +1,7 @@
 /**
  * Plugin: equal height columns in a responsive layout
  * Author: Marc Loehe (http://marcloehe.de)
+ * Dual licensed under the MIT and GPL licenses.
  *
  * Usage:
  * $('#container-with-columns').eqHeights();

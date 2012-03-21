@@ -8,4 +8,4 @@ This is a collection of handy jQuery snippets (mostly plugins) that were the byc
 
 ## License
 
-Everything inside this repository is dual licensed under the GPL and MIT license.
+Everything inside this repository is dual licensed under the GPL and MIT licenses.
